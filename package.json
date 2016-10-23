@@ -1,0 +1,22 @@
+{
+  "name": "swagger_ui_example",
+  "version": "1.0.0",
+  "description": "swagger ui 初体验，将是一个完整的工程，以后需要的话拷贝这个工程就可以使用；并修改做中文支持",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhifuliu/swagger-Ui.git"
+  },
+  "keywords": [
+    "swagger_ui"
+  ],
+  "author": "zhifu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhifuliu/swagger-Ui/issues"
+  },
+  "homepage": "https://github.com/zhifuliu/swagger-Ui#readme"
+}
