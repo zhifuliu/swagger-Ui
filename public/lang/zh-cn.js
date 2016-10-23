@@ -3,10 +3,10 @@
 /* jshint quotmark: double */
 window.SwaggerTranslator.learn({
     "Warning: Deprecated":"警告：已过时",
-    "Implementation Notes":"实现备注",
+    "Implementation Notes":"接口备注",
     "Response Class":"响应类",
     "Status":"状态",
-    "Parameters":"参数",
+    "Parameters":"参数列表",
     "Parameter":"参数",
     "Value":"值",
     "Description":"描述",
@@ -22,7 +22,7 @@ window.SwaggerTranslator.learn({
     "Response Headers":"响应头",
     "Hide Response":"隐藏响应",
     "Headers":"头",
-    "Try it out!":"试一下！",
+    "Try it out!":"发请求",
     "Show/Hide":"显示/隐藏",
     "List Operations":"显示操作",
     "Expand Operations":"展开操作",
