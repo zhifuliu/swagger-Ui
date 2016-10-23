@@ -26,7 +26,7 @@ gulp.task('develop', function() {
             baseDir: './public/'
         },
         index: './index.html',
-        files: '**/*.*'
+        files: ['**/*.css', '**/*.js', '**/*.json', '**/*.html']
     });
 });
 gulp.task('default', ['develop']);
