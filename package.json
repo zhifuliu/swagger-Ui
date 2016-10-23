@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/zhifuliu/swagger-Ui/issues"
   },
-  "homepage": "https://github.com/zhifuliu/swagger-Ui#readme"
+  "homepage": "https://github.com/zhifuliu/swagger-Ui#readme",
+  "devDependencies": {
+    "express": "^4.14.0"
+  }
 }
